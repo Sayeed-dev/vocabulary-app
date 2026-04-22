@@ -1,0 +1,1 @@
+This is a structured educational platform built to help students and language learners organize and master new vocabulary. Instead of overwhelming users with data, the app focuses on a clean, distraction-free interface that categorizes words for better cognitive retention.
